@@ -110,3 +110,5 @@ make it clear for future users what version of the file should be used:
     - https://docs.csc.fi/#data/Allas/using_allas/common_use_cases/
 - ida-storage:
 https://docs.csc.fi/#data/ida/using_ida
+- Transfering from taito to puhti
+https://docs.csc.fi/#data/Allas/migration_tutorial/
